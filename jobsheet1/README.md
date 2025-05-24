@@ -12,7 +12,7 @@
    <br> **Jawab:**
 
 - Git adalah sistem kontrol versi (_version control system_) yang memungkinkan kita menyimpan, melacak, dan mengelola perubahan dalam kode.
-- VS Code (Visual Studio Code) adalah editor kode gratis yang disediakan oleh Microsoft yang mendukung berbagai bahasa pemrograman.
+- VS Code (Visual Studio Code) adalah editor kode gratis yang disediakan oleh Micronpsoft yang mendukung berbagai bahasa pemrograman.
 - Node.js adalah platform runtime JavaScript yang memungkinkan pemrogram menjalankan JavaScript di luar browser. Node.js dapat digunakan untuk mengembangkan aplikasi web, server, alat baris perintah, dan skrip.
 
 2. Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!
